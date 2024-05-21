@@ -14,7 +14,7 @@
 
 # Introduction
 
-_Azure Chat Solution Accelerator powered by Azure Open AI Service_
+_Azure Chat Solution Accelerator powered by UvA and Azure Open AI Service_
 
 ![](/docs/images/intro.png)
 
